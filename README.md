@@ -4,6 +4,8 @@ A project that will explain some more JS for me.
 A simple two-player Pong game built using vanilla JavaScript and the HTML5 Canvas API.
 This project recreates the classic arcade experience: move the paddles, hit the ball, and score points!
 
+YouTube link - https://www.youtube.com/watch?v=AiFqApeurqI
+
 
 ## Features
 - Two-player controls
